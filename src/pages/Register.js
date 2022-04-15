@@ -98,7 +98,7 @@ function Register() {
       <div className="flex justify-end">
         <div className="h-40 w-96 bg-white transform skew-x-[25deg] -mr-10 flex items-center justify-center">
           <h1 className="text-center text-6xl font-semibold -skew-x-[25deg] text-primary">
-            SHEY
+            GRAM
           </h1>
         </div>
       </div>
