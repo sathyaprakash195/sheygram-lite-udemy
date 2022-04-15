@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+html , body{
+    overflow-x: hidden !important;
+    overflow-y: hidden !important;
+}
+.card-sm{
+    box-shadow: 0 0 1px gray
+}
+.card{
+    box-shadow: 0 0 3px gray
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
